@@ -1,4 +1,6 @@
-![custom](Credit Card Image.png)
+## Project Dashboard
+
+![Credit Card Spending Analysis](Credit%20Card%20Image.png)
 I recently came across a case study on the Kaggle website. As a data analyst, I found this challenge to be a great way to showcase my SQL skills and improve my problem-solving abilities.
 
 Imported the dataset in SQL server with table name: credit_card_transcations             
